@@ -1,0 +1,32 @@
+# Arquivos compilados
+*.o
+*.obj
+*.elf
+*.exe
+*.out
+
+# Diretórios e arquivos temporários
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Arquivos gerados por ferramentas
+*.map
+
+# Diretórios de build e dist
+/build/
+/dist/
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Outros arquivos específicos
+*.project
+*.classpath
